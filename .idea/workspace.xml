@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="929f4de4-4cc6-4014-a5a0-f3871c33b003" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_shim.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +27,10 @@
       <file leaf-file-name="custom.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="26" selection-start="0" selection-end="1164" vertical-scroll-proportion="0.8076923">
-              <folding />
+            <state line="101" column="1" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.8717949">
+              <folding>
+                <marker date="1361686645044" expanded="true" signature="599:646" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -698,8 +695,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="26" selection-start="0" selection-end="1164" vertical-scroll-proportion="0.8076923">
-          <folding />
+        <state line="101" column="1" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.8717949">
+          <folding>
+            <marker date="1361686645044" expanded="true" signature="599:646" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
